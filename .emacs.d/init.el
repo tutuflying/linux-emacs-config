@@ -71,12 +71,17 @@
 (add-to-list 'load-path "~/.eamcs.d/vendor/coffee-mode")
 (require 'coffee-mode)
 
+;;zencoding
+(add-to-list 'load-path "~/.emacs.d/zencoding")
+(require 'zencoding-mode)
+(add-hook 'sgml-mode-hook 'zencoding-mode)
+
 (when *spell-check-support-enabled*
   (require 'init-spelling))
 
 (require 'init-marmalade)
 (require 'init-misc)
-
+(require 'color-moccur)
 
 ;;----------------------------------------------------------------------------
 ;; Allow access from emacsclient

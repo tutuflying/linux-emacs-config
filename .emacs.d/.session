@@ -1,7 +1,9 @@
-;;; Automatically generated on Tue Aug 28 19:15:14 2012
+;;; Automatically generated on Wed Aug 29 22:42:30 2012
 ;;; Invoked by zyj@zyj-Aspire-4745G using 23.3.1
-(setq-default session-file-alist '(("/mygit/dev/js/test.css" 6 nil 1 nil nil 6 (overwrite-mode)) ("/mygit/dev/js/test.html" 611 nil 1 nil nil 611 (overwrite-mode)) ("/mygit/dev/src/test2.coffee" 1724 nil 1 nil nil 2066 (overwrite-mode)) ("~/.emacs.d/init.el" 2002 nil 1 nil nil 2002 (overwrite-mode))))
-(setq-default file-name-history '("~/.git/COMMIT_EDITMSG" "~/.git/HEAD" "/mygit/dev/js/test.css" "/mygit/dev/js/test.html" "/mygit/dev/src/test2.coffee" "~/.emacs.d/init.el"))
-(setq-default command-history '((find-file "/mygit/dev/js/test.css") (find-file "/mygit/dev/js/test.html") (find-file "/mygit/dev/src/test2.coffee")))
-(setq-default ido-file-history '("test.cs" "js" "de" "my" "test.css" "test.h" "dev" "jst" "dev/" "ht" "sr" "test2.co" "zyj/" "myg" "home/"))
+(setq-default session-file-alist '(("~/.emacs.d/init.el" 2661 2132 1 nil nil 2132 (overwrite-mode))))
+(setq-default file-name-history '("~/.emacs.d/init.el" "/home/zyj/.emacs.d/init-css.el" "~/.ido.last" "~/.emacs.d/zencoding/zencoding-mode.el" "/mygit/dev/js/css.css" "/mygit/dev/js/test.html" "~/.emacs.d/init-css.el" "~/.emacs" "/mygit/windows-emacs-config/.emacs" "~/.git/COMMIT_EDITMSG" "~/.git/HEAD" "/mygit/dev/js/test.css" "/mygit/dev/src/test2.coffee"))
+(setq-default search-ring '("zencoding"))
+(setq-default command-history '((tetris-start-game) (find-file "/home/zyj/.emacs.d/init-css.el")))
+(setq-default ido-file-history '("init-css" ".emacs.d/"))
+(setq-default minibuffer-history '("teris-star"))
 (setq-default smex-history '(cd lm mf 5x5 arp dbx dig))
